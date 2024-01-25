@@ -18,5 +18,16 @@
     <ClCompile Include="pong.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="nn.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="interface.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
